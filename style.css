@@ -19,3 +19,9 @@ body {
     text-align: center;
     margin-bottom: 60px;
 }
+
+.team {
+    display: flex;
+    text-align: center;
+    width: auto;
+}
