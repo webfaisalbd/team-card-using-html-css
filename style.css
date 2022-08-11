@@ -50,3 +50,26 @@ body {
     text-transform: uppercase;
     margin: 12px 0;
 }
+
+.team .team_member .team_img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;   
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: black;
+}
+
+.team .team_member .team_img img {
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+  
+}
+
+
+
+
+
